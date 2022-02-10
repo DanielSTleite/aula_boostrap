@@ -1,0 +1,54 @@
+body {
+    font: 20px times;
+    }
+.navbar {
+    background-color: #2a8b3f;
+    position: relative;
+    display: flex;
+    align-items: center;
+    color: aquamarine;
+   }
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.rounded-cirle {
+    border-radius: 50%;
+    padding-bottom: 50%;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+.parceiros {
+    background-color: blueviolet;
+    border-radius: 50%;
+    padding-bottom: 50%;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+.servicos {
+    border-radius: 50%;
+    padding-bottom: 50%;
+    position: relative;
+    display: flex;
+    align-items: center;    
+}
+.quemsomos {
+    border-radius: 50%;
+    padding-bottom: 50%;
+    position: relative;
+    display: flex;
+    align-items: center;  
+}
+
+.bg-footer {
+    background-color: yellowgreen;
+    color: #2a8b3f;
+
+}
